@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [13/May/2025:23:20:48 +0000] "GET / HTTP/1.1" 200 653 http-bio-9090-exec-1 191
+0:0:0:0:0:0:0:1 - - [13/May/2025:23:20:48 +0000] "GET /assets/css/styles.css HTTP/1.1" 304 - http-bio-9090-exec-2 5
+0:0:0:0:0:0:0:1 - - [13/May/2025:23:20:49 +0000] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9090-exec-3 6
+0:0:0:0:0:0:0:1 - - [13/May/2025:23:20:51 +0000] "GET / HTTP/1.1" 200 653 http-bio-9090-exec-4 1
+0:0:0:0:0:0:0:1 - - [13/May/2025:23:20:54 +0000] "GET /etudiants/lister HTTP/1.1" 200 2537 http-bio-9090-exec-5 1020
+0:0:0:0:0:0:0:1 - - [13/May/2025:23:20:58 +0000] "GET /accueil HTTP/1.1" 200 653 http-bio-9090-exec-7 3
+0:0:0:0:0:0:0:1 - - [13/May/2025:23:21:00 +0000] "GET /cours/lister HTTP/1.1" 200 2241 http-bio-9090-exec-8 16
+0:0:0:0:0:0:0:1 - - [13/May/2025:23:21:02 +0000] "GET /accueil HTTP/1.1" 200 653 http-bio-9090-exec-9 1
+0:0:0:0:0:0:0:1 - - [13/May/2025:23:21:03 +0000] "GET /filieres/lister HTTP/1.1" 200 1484 http-bio-9090-exec-10 80
+0:0:0:0:0:0:0:1 - - [13/May/2025:23:21:05 +0000] "GET /accueil HTTP/1.1" 200 653 http-bio-9090-exec-10 3
+0:0:0:0:0:0:0:1 - - [13/May/2025:23:21:06 +0000] "GET /notes/lister HTTP/1.1" 200 2359 http-bio-9090-exec-10 12
+0:0:0:0:0:0:0:1 - - [13/May/2025:23:21:08 +0000] "GET /accueil HTTP/1.1" 200 653 http-bio-9090-exec-10 1
